@@ -1,6 +1,6 @@
 # Remind Me - Reminder Web App
 
-Remind Me is a web application built using React, Next.js, TypeScript, Server Actions, Zod, React Hook Form, Prisma, and Tailwind CSS. It allows users to create and manage reminders effortlessly.
+Remind Me is a web application built using React, Next.js, TypeScript, Server Actions, Zod, React Hook Form, Prisma, and Tailwind CSS. It allows users to create and manage reminders effortlessly. Completed this app on 2 September 2023.
 
 ## Features
 
