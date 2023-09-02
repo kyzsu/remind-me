@@ -59,7 +59,7 @@ function CreateTaskDialog({ open, collection, setOpen }: Props) {
       await createTask(data)
 
       toast({
-        title: "Success",
+        title: "Success 🥳",
         description: "Task created successfully!",
       })
       openChangeWrapper(false)
@@ -67,7 +67,7 @@ function CreateTaskDialog({ open, collection, setOpen }: Props) {
       router.refresh()
     } catch (error) {
       toast({
-        title: "Error",
+        title: "Error ☹️",
         description: "Cannot create task.",
         variant: "destructive",
       })

@@ -60,12 +60,12 @@ function CreateCollectionSheet({ open, onOpenChange }: Props) {
       router.refresh()
 
       toast({
-        title: "Success",
+        title: "Success 🥳",
         description: "Collection created successfully!",
       })
     } catch (error) {
       toast({
-        title: "Error",
+        title: "Error ☹️",
         description: "Something went wrong. Please try again later",
         variant: "destructive",
       })
